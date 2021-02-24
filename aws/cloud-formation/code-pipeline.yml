@@ -6,7 +6,7 @@ Parameters:
     Default: ecs-blue-green-demo
   GitHubOwner:
     Type: String
-    Default: imunew
+    Default: 2or3
   GitHubRepository:
     Type: String
     Default: ecs-blue-green-demo
